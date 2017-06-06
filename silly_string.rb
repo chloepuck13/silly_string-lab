@@ -1,4 +1,2 @@
-#code your solutions here
-
-
+"IM NOT SHOUTING".downcase
 
